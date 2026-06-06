@@ -51,7 +51,7 @@ Robot spawned in Gazebo with the static 3D mesh map loaded:
 - **Real-time distance feedback:** Proximity to walls and objects
 - **Switchable views:** Left wheel view, right wheel view, and following camera to monitor wall clearance and prevent collisions
 
-https://github.com/user-attachments/assets/e6e9bcdb-ee10-4410-992b-40227894b76e
+https://github.com/user-attachments/assets/8571d57f-4d7b-4bdc-89ad-49ad21d2c64e
 
 ### ROS2 Connection States
 
